@@ -160,7 +160,7 @@ async def play(c: Kanna, m: Message):
                 await pokemon.delete()
                 requester = f"[{m.from_user.first_name}](tg://user?id={m.from_user.id})"
                 await m.reply_photo(
-                    photo=f"https://telegra.ph/file/e6c3b9d0903078c85f459.jpg",
+                    photo=f"https://te.legra.ph/file/7b8cac4f0720b294ccdcb.jpg",
                     caption=f"**❰ 𝗥𝐞𝐬𝐬𝐨 𝗠𝐮𝐬𝐢𝐤 ❱ 𝗡𝗼𝘄 🥳 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 💗 𝗔𝘁 🤟\n\n👤𝗥𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝗕𝘆:{requester}**",
                     reply_markup=InlineKeyboardMarkup(buttons),
                 )
