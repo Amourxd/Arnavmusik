@@ -25,7 +25,7 @@ user = PyTgCalls(
 
 call_py = PyTgCalls(kanna, overload_quiet_mode=True)
 
-OWNER_NAME = "ArnavSingh"
+OWNER_NAME = "UrssKanna"
 F_OWNER = OWNER_ID[0]
 
 with Client("callmusic", API_ID, API_HASH, bot_token=BOT_TOKEN) as app:
