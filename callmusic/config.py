@@ -8,10 +8,10 @@ admins = {}
 
 SESSION_NAME = getenv("SESSION_NAME")
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! .").split())
-BOT_USERNAME = getenv("BOT_USERNAME", "RessoMusikbot")
+BOT_USERNAME = getenv("BOT_USERNAME", "amour_musicbot")
 BOT_TOKEN = getenv("BOT_TOKEN")
-API_ID = int(getenv("API_ID", "26864680"))
-API_HASH = getenv("API_HASH", "7dab04a9f63156e9e9911c55dd87d56e")
+API_ID = int(getenv("API_ID", "21368268"))
+API_HASH = getenv("API_HASH", "9177015267314d22db362d9537c51519")
 GROUP_SUPPORT = getenv("GROUP_SUPPORT", "ilexworld")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "op_arnav_singh")
 OWNER_ID = list(map(int, getenv("OWNER_ID", "5482561033").split()))
