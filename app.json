@@ -38,7 +38,7 @@
       },
       "SUDO_USERS": {
         "description": "The user id(s) of user(s) whom you would like to add as a sudo. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "5867203629",
         "required": true
       },
       "BOT_USERNAME": {
