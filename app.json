@@ -43,7 +43,7 @@
       },
       "BOT_USERNAME": {
         "description": "ur bot username",
-        "value": "RessoMusikbot",
+        "value": "amour_musicbot",
         "required": true
       }
     },
